@@ -168,7 +168,7 @@ a{
 .section{
     background: url("../img/background-img.png") no-repeat center;
 	max-width: 100%;
-	height: 920px;
+	background-size: cover;
 }
 
 
